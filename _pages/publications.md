@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
+
 <b>[On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods](https://arxiv.org/abs/2312.13970)</b> <br> 
 <b>Anh Duc Nguyen</b>, Tuan Dung Nguyen, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, Kim-Chuan Toh.
 <b>AAAI 2024 Oral</b>.
@@ -15,9 +15,10 @@ author_profile: true
 <b>[Improved Rates for Stochastic Variance-Reduced Difference-of-Convex Algorithms](https://arxiv.org/abs/2509.11657)</b> <br> 
 <b>Anh Duc Nguyen</b>, Alp Yurtsever, Suvrit Sra, Kim-Chuan Toh.
 <b>IEEE CDC 2025</b>.
+<br>
 
 # Under Review
-<br>
+
 <b>Almost Sure Convergence of Nonlinear Stochastic Approximation Under General Moment Condition</b> <br>
 <b>Anh Duc Nguyen</b>, Quang Nguyen, Hoang H. Nguyen, Siva Theja Maguluri.
 

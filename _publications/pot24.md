@@ -1,7 +1,6 @@
 ---
 title: "On partial optimal transport: Revising the infeasibility of sinkhorn and efficient gradient methods"
 collection: publications
-permalink: /publications/POT24
 venue: "The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)"
 date: 2023-12-22
 paperurl: 'https://arxiv.org/abs/2312.13970'

@@ -5,5 +5,4 @@ category: conferences
 date: 2024
 venue: 'AAAI'24 Oral'
 paperurl: 'https://arxiv.org/abs/2312.13970'
-citation: 'Anh Duc Nguyen, Tuan Dung Nguyen, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, Kim-Chuan Toh'
 ---

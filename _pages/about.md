@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research assistant at the Institute of Operations Research and Analytics (IORA), National University of Singapore (NUS), where I work with Prof [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). In July 2025, I obtained my Bachelor’s degree in Mathematics [Special Program in Mathematics](https://www.math.nus.edu.sg/ug/spm/) with a second major in Data Science, also from NUS.
+I am a research assistant at the Institute of Operations Research and Analytics (IORA), National University of Singapore (NUS), where I work with Prof [Kim-Chuan Toh](https://blog.nus.edu.sg/mattohkc/). In July 2025, I obtained my Bachelor’s degree in Mathematics [(Special Program in Mathematics)](https://www.math.nus.edu.sg/ug/spm/) with a second major in Data Science, also from NUS.
 
 My research interests lie in optimization, online learning, and applied probability, with applications to decision making under uncertainty, computational game theory, and reinforcement learning. All my previous works can be found on the [Publications](https://ducna271.github.io/publications/) page. 
 

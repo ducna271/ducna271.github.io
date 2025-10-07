@@ -15,3 +15,5 @@ I am deeply grateful to have received several research awards, including the [IN
 For any inquiry, feel free to contact me at ducna (at) nus (dot) edu (dot) sg.
 
 <b><span style="color:red">I am looking for PhD positions starting Fall 2026.</span></b>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=U7sDAtZ-Gc9txp9FXtR_9aTt3s0QsAcWShXKgsGv4MY&cl=ffffff&w=a"></script>

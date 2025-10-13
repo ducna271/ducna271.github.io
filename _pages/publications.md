@@ -24,3 +24,4 @@ author_profile: true
 
 <b>On Multi-Marginal Partial Optimal Transport: Infeasible Extension Strategies and Efficient Primal-Dual Methods</b> <br>
 Quang Nguyen, <b>Anh Duc Nguyen</b>, Tuan Dung Nguyen, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, Kim-Chuan Toh.
+<b>NeurIPS 2025 Workshop MLxOR</b>.

@@ -21,7 +21,7 @@ author_profile: true
 
 <b>Almost Sure Convergence of Nonlinear Stochastic Approximation Under General Moment Condition</b> <br>
 <b>Anh Duc Nguyen</b>, Quang Nguyen, Hoang H. Nguyen, Siva Theja Maguluri.
+<b>NeurIPS 2025 Workshop MLxOR</b>.
 
 <b>On Multi-Marginal Partial Optimal Transport: Infeasible Extension Strategies and Efficient Primal-Dual Methods</b> <br>
 Quang Nguyen, <b>Anh Duc Nguyen</b>, Tuan Dung Nguyen, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, Kim-Chuan Toh.
-<b>NeurIPS 2025 Workshop MLxOR</b>.

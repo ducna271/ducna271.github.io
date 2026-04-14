@@ -24,6 +24,10 @@ author_profile: true
 <b>Anh Duc Nguyen</b>, Quang Nguyen, Hoang H. Nguyen, Siva Theja Maguluri.
 <b>MLxOR Workshop, NeurIPS 2025</b>.
 
+<b>[Almost Sure Convergence of Nonlinear Stochastic Approximation: An Interplay of Noise and Step Size](https://openreview.net/pdf?id=iTNB3Q9TKC)</b> <br>
+Quang Nguyen, <b>Anh Duc Nguyen</b>, Hoang H. Nguyen, Siva Theja Maguluri.
+<b>In Submission</b>.
+
 <br>
 
 # Acknowledgement

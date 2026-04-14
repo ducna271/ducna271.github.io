@@ -8,7 +8,7 @@ author_profile: true
 <b>Anh Duc Nguyen</b>, Tuan Dung Nguyen, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, Kim-Chuan Toh.
 <b>AAAI 2024 Oral</b>.
 
-<b>[Layer-wise Quantization for Quantized Optimistic Dual Averaging](https://openreview.net/pdf?id=lqBdJrwiCA)</b> <br> 
+<b>[Layer-wise Quantization for Distributed Variational Inequalities](https://openreview.net/pdf?id=lqBdJrwiCA)</b> <br> 
 <b>Anh Duc Nguyen</b>, Ilia Markov, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, Volkan Cevher.
 <b>Machine Learning and Compression Workshop, NeurIPS 2024</b>.
 
